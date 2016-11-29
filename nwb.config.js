@@ -28,7 +28,7 @@ module.exports = {
               'react': 'inferno-compat',
               'react-dom': 'inferno-compat'
           }
-      },      
+      },
       plugins: [
         new ProvidePlugin({
             'Inferno': 'react'
